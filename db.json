@@ -1,0 +1,14 @@
+{
+    "users": [
+    {
+        "name":"le anh nam",
+        "birthday":"01-01-1988",
+        "id":"1"
+    },
+    {
+        "name":"le trung vinh",
+        "birthday":"01-01-1983",
+        "id":"2"
+    }
+    ]
+}
